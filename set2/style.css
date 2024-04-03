@@ -1,0 +1,94 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+} */
+/* .parent{
+    font-size: 10px;
+}
+.child{
+    font-size: 20px;
+    background-color: aquamarine;
+    width: 10rem;
+}
+html{
+    font-size: 20px;
+} */
+/* .btn{
+    border-radius: 10px;
+    padding: 1em;
+    border: none;
+    display: block;
+    margin: 10px auto;
+    font-size: 16px;
+    width: 8em;
+}
+.btn-small{
+    
+    font-size: 10px;
+}
+.btn-big{
+    font-size: 30px;
+   
+} */
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+.parent{
+     background-color: rgb(231, 30, 30);
+     height: 100px;
+}
+.child{
+   width: 50%;
+   min-height: 200px;
+   padding: 16px 32px;
+   background-color: green;
+   overflow: scroll;
+} */
+/* body{
+    height: 100vh;
+    width: 100vw;
+    padding: 10px 32px;
+}
+.parent{
+    ol{
+        background-color: rgb(166, 130, 200);
+    }
+    ul:first-child{
+background-color: pink;
+    }
+    ul:last-child{
+        background-color: rgb(233, 131, 131);
+        li:nth-child(3){
+            
+background-color: rgb(249, 249, 46);
+
+
+        }
+    
+}
+
+}
+ul{
+    li:last-child{
+        background-color: rgb(249, 249, 46);
+    }
+} */
+/* .parent ul{
+     background-color: aqua;
+}
+.parent>ul{
+     background-color: lime;
+}
+.parent+ul{
+    background-color: rgb(245, 245, 131);
+} */

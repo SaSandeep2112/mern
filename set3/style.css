@@ -1,0 +1,53 @@
+/* .parent{
+    background-color: aqua;
+    display: flex;
+}
+.child{
+    -color: bbackgroundlanchedalmond;
+    border: 1px solid pink;
+    flex-basis: 40px;
+    flex-shrink: 0;
+}
+.search-box{
+    /* flex-grow: 4; */
+/* .parent{
+    background-color: aqua;
+    margin: 0;
+    display: flex;
+}
+.child{
+    background-color: aquamarine;
+    border: 1px solid pink;
+    /* flex-basis: 40px;
+    flex-shrink: 0; */
+    /* width: 100px; */
+
+/* .parent1{
+    justify-content: space-between;
+} */
+
+.parent{
+    background-color: aqua;
+    display: flex;
+    height: 500px;
+    justify-content: space-evenly;
+    align-items: baseline;
+    /* align-content: ; */
+    /* justify-items: ; */
+ flex-direction: column;
+  
+}
+
+.child{
+    border: 1px solid red;
+    background-color: rgb(219, 225, 24);
+    width: 100px;
+}
+.logo{
+    align-self: flex-start;
+    padding: 40px 10px;
+    order: 4;
+}
+.cart{
+    order: 1;
+}

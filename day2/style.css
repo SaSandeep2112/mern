@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+     /* width: border(left&right)+content+padding; */
+}
+/*  */
+/* .parent{
+    p{
+        background-color: brown;
+        width: fit-content;
+    }
+    span{
+        background-color: aqua;
+
+    }
+} */
+/* .parent{
+    width: 200px;
+    background-color: aqua;
+    text-align: center;
+    margin: 0 0 0 auto;
+
+} */
+/* .parent img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0  auto;
+} */
+/* p{
+    background-color: blue;
+} */
+/* #p1{
+    background-color: royalblue;
+} */
+/* .p2{
+    background-color: aquamarine !important;
+}
+.p3{
+    background-color: antiquewhite;
+}
+css means upper to bottom */
