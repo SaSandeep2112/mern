@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Page</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        
+        header{
+            height: 150px;
+            background-color: gray;
+        }
+        footer{
+            height: 50px;
+            background-color: gray;
+        }
+        .news-card{
+            background-color: rgb(196, 178, 212);
+            max-width: 350px;
+            max-height: 350px;
+            padding: 24px;
+            margin: 40px auto
+            
+            
+        }
+        img{
+            max-width: 300px;
+            max-height: 300px;
+            margin: auto;
+            display: block;
+            margin: 12px;
+        }
+        #root{
+            display: grid;
+            grid-template-columns: 432px 456px 374px;
+        }
+        p{
+            font-family: sans-serif;
+            font-weight: bold;
+           color: whitesmoke;
+           text-align: center;
+           justify-content: center;
+           display: block;
+        }
+    </style>
+</head>
+<body>
+    <header></header>
+    <main>
+        <div id="root">
+
+        </div>
+    </main>
+    <footer></footer>
+    <script src="./script.js"></script>
+</body>
+</html>
